@@ -1,6 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timegradient&height=120&animation=fadeIn&section=footer&text=&fontAlign=70)
+!![header](https://capsule-render.vercel.app/api?type=venom&color=040720&height=300&section=header&text=capsule%20render&fontSize=90)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=str-leshs&theme=transparent)
+
 
 <p align="center">
 <a href="s">
@@ -10,6 +11,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=str-leshs&theme=holi&show_icons=true" width="42%" />
 </a>
 </p>
+
+<hr>
 
 <h3 align="center">Tech Stack</h3>
 <p align="center">
