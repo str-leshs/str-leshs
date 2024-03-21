@@ -1,4 +1,4 @@
-!![header](https://capsule-render.vercel.app/api?type=venom&color=040720&height=300&section=header&text=capsule%20render&fontSize=90)
+!![header](https://capsule-render.vercel.app/api?type=venom&color=040720&height=300&section=header&text=capsule%20render&fontSize=90&fontColor=FFF)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=str-leshs&theme=transparent)
 
