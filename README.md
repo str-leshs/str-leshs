@@ -1,7 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=4169e1&height=300&section=header&text=capsule%20render&fontSize=90&fontColor=FFF)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=str-leshs&theme=transparent)
-
+![header](https://capsule-render.vercel.app/api?type=venom&color=4169e1&height=300&section=header&text=DevelopGround&fontSize=90&fontColor=FFF)
 
 <p align="center">
 <a href="s">
