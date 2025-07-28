@@ -27,7 +27,7 @@
 
 <h3 align="center">Contect Me</h3>
 <p align="center">
-  <a href="https://velog.io/@wilstiffeun"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@wilstiffeun"/></a>&nbsp
+  <a href="https://velog.io/@leshs02185"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@leshs02185"/></a>&nbsp
   <a href="0805eslee@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=0805eslee@gmail.com"/></a>
 </p>
 
