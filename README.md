@@ -4,9 +4,6 @@
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=str-leshs&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" width=37.8%/>
 </a>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=str-leshs&theme=holi&show_icons=true" width="42%" />
-</a>
 </p>
 
 <hr>
