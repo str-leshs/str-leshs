@@ -1,6 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=4169e1&height=300&section=header&text=Eunseo's%20PlayGround&fontSize=90&fontColor=D7D2CB)
 
 <br>
+
+![My Music](https://sound-badge.vercel.app/api/card.svg?url=https://youtu.be/Y4dGS4M-wjQ?si=VSTEv8hyd5z6gVE1&theme=badge)
+<br>
 <hr>
 
 <h3 align="center">Skills</h3>
